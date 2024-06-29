@@ -1,5 +1,5 @@
 # eegnet_julia
-Implementation of EEGNet [DOI 10.1088/1741-2552/aace8c] for Julia using Flux and CUDA.
+Implementation of [EEGNet](DOI 10.1088/1741-2552/aace8c) for Julia using Flux and CUDA.
 
 Usage:
 
